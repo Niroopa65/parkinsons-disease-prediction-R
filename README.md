@@ -1,7 +1,7 @@
 # Parkinson’s Disease Prediction Using Machine Learning in R
 
 ## Project Overview
-This project demonstrates the use of **machine learning algorithms** to predict **Parkinson’s disease** based on voice measurements from the **UCI Parkinson’s dataset**. The goal is to build, evaluate, and compare multiple models to identify the most accurate and reliable for early detection.
+This project demonstrates the use of **machine learning algorithms** to predict **Parkinson’s disease** based on voice measurements from the **kaggle Parkinson’s dataset**. The goal is to build, evaluate, and compare multiple models to identify the most accurate and reliable for early detection.
 
 ## Dataset
 - Source: Kaggle dataset
